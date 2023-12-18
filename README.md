@@ -38,6 +38,21 @@ Bienvenue dans le défi CTF Speed Hack sur Root Me ! Dans cet événement, nous 
 ### 10. Redirection Inappropriée HTTP
 - Lien du Défi : [Redirection Inappropriée HTTP](https://www.root-me.org/en/Challenges/Web-Server/HTTP-Improper-redirect)
 
+### 11. Java - Server-side Template Injection
+- Lien du Défi : [Java - Server-side Template Injection](https://www.root-me.org/en/Challenges/Web-Server/Java-Server-side-Template-Injection?lang=en)
+
+### 12. SQL injection - Authentication - GBK
+- Lien du Défi : [SQL injection - Authentication - GBK](https://www.root-me.org/en/Challenges/Web-Server/SQL-injection-authentication-GBK)
+
+### 13. Java - XSLT - Code execution
+- Lien du Défi : [XSLT - Code execution](https://www.root-me.org/en/Challenges/Web-Server/XSLT-Code-execution)
+
+### 14. Elixir - EEx
+- Lien du Défi : [Elixir - EEx](https://www.root-me.org/en/Challenges/Web-Server/Elixir-EEx)
+
+### 15. PHP - Unserialize Pop Chain
+- Lien du Défi : [PHP - Unserialize Pop Chain](https://www.root-me.org/en/Challenges/Web-Server/PHP-Unserialize-Pop-Chain)
+
 ## Instructions
 
 1. **Configurer l'Environnement :** Assurez-vous que votre environnement de test de pénétration est correctement configuré avec les outils nécessaires.
